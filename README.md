@@ -15,7 +15,7 @@ Please follow these steps to install the Financial Calculator:
 
 1. Clone the repository to your local machine:
 
-    git clone https://github.com/quimbledon/finalCapstone/FinanceCalculator.py
+    git clone [https://github.com/quimbledon/finalCapstone/FinanceCalculator.py](https://github.com/quimbledon/finalCapstone/blob/master/FinanceCalculator.py)
 
 
 2. Change into the project directory, eg:
