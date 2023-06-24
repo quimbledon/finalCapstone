@@ -57,7 +57,7 @@ _Example 1: Calculating investment returns with compound interest_
 
 investment.png
 
-[_Example 2: Calculating bond repayments_](https://github.com/quimbledon/finalCapstone/blob/master/bond.png)
+![Bond Screenshot](https://github.com/quimbledon/finalCapstone/blob/master/bond.png)
 
 bond.png
 
