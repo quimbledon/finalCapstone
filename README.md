@@ -53,9 +53,11 @@ Once the Financial Calculator is installed, follow the steps below to use it:
 
 **Screenshots:**
 
+Investment with simple interest:
+
 ![Investment Screenshot](https://github.com/quimbledon/finalCapstone/blob/master/investment.png)
 
-
+Bond:
 
 ![Bond Screenshot](https://github.com/quimbledon/finalCapstone/blob/master/bond.png)
 
