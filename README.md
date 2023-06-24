@@ -13,36 +13,26 @@ This project is essential for anyone who wants to calculate the potential return
 ## Installation
 Please follow these steps to install the Financial Calculator:
 
-1. Clone the repository to your local machine.
-
-git clone https://github.com/your-username/financial-calculator.git
-
-
-2. Change into the project directory.
+1. Clone the repository to your local machine:
+git clone https://github.com/quimbledon/finalCapstone/FinanceCalculator.py
 
 
-cd financial-calculator
+2. Change into the project directory, eg:
+cd FinanceCalculator
 
+3. This project requires Python 3. Install Python 3 if required.
 
-
-3. Make sure you have Python installed. This project requires Python 3.
-
-4. Install the required dependencies using pip.
-
+4. Install the required dependencies using pip, eg:
 pip install (as appropriate)
 
-
-
-5. Run the script.
-
-python financial_calculator.py
+5. Run the script:
+python FinanceCalculator.py
 
 
 ## Usage
 Once the Financial Calculator is installed, follow the steps below to use it:
 
-1. Run the script by executing the `financial_calculator.py` file.
-
+1. Run the script by executing the `FinanceCalculator.py` file.
 
 2. You will be presented with a menu asking you to select either "investment" or "bond."
 
