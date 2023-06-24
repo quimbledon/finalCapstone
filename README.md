@@ -57,7 +57,7 @@ Investment with simple interest:
 
 ![Investment Screenshot](https://github.com/quimbledon/finalCapstone/blob/master/investment.png)
 
-Bond:
+Bond monthly repayments:
 
 ![Bond Screenshot](https://github.com/quimbledon/finalCapstone/blob/master/bond.png)
 
