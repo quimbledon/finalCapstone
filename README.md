@@ -53,13 +53,13 @@ Once the Financial Calculator is installed, follow the steps below to use it:
 
 **Screenshots:**
 
-_Example 1: Calculating investment returns with compound interest_
+![Investment Screenshot](https://github.com/quimbledon/finalCapstone/blob/master/investment.png)
 
-investment.png
+
 
 ![Bond Screenshot](https://github.com/quimbledon/finalCapstone/blob/master/bond.png)
 
-bond.png
+
 
 ## Credits
 The Financial Calculator was created by Paul Armstrong (http://www.github.com/quimbledon) as part of the HyperionDev Data Science Bootcamp
