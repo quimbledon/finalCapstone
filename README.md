@@ -55,11 +55,11 @@ Once the Financial Calculator is installed, follow the steps below to use it:
 
 _Example 1: Calculating investment returns with compound interest_
 
-![Investment Calculation](screenshots/investment.png)
+investment.png
 
 _Example 2: Calculating bond repayments_
 
-![Bond Calculation](screenshots/bond.png)
+bond.png
 
 ## Credits
 The Financial Calculator was created by Paul Armstrong (http://www.github.com/quimbledon) as part of the HyperionDev Data Science Bootcamp
